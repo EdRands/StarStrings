@@ -23,11 +23,11 @@
 ### Items
 - Warning prefixes `[!]` for illegal substances
 - Componenet Type/Size/Grade prefixed to the name
-  - eg. `Tundra` -> `Mil/1/D Tundra`
+  - Eg. `Tundra` -> `Mil/1/D Tundra`
 - Type notation prefix for missiles (Thanks to WhisperDark in Discord for suggestion)
   - Eg. `Dominator II Missile` -> `[EM] Dominator II Missile`
 - Reduced verbosity of Pyro MultiTool attachment names (so they don't scroll when using customise)
- - Eg. `TruHold Tractor Beam Attachment` -> `Tractorbeam`
+  - Eg. `TruHold Tractor Beam Attachment` -> `Tractorbeam`
 ### Journal
 - Reformatted the Mining guide journal entry to group ores by rarity
   - nb. I do not verify that the source journal entry is in any way accurate.
